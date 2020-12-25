@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="welcome_lab4">Hello! This is Lab4!</string>
+    <string name="photo_of_a_student">Photo of a student.</string>
+    <string name="enter_surname">Enter surname:</string>
+    <string name="enter_name">Enter name:</string>
+    <string name="enter_patronymic">Enter patronymic:</string>
+    <string name="save_student">Save student</string>
+    <string name="take_photo">Take photo</string>
+    <string name="unableinvokecamera">Unable to invoke camera</string>
+    <string name="pricturesaved">Picture is saved</string>
+    <string name="editstudent">Edit Student</string>
+    <string name="addstudent">Add Student</string>
+</resources>

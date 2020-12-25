@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="welcome_lab3">This is my Lab3!</string>
+    <string name="enter_surname">Enter surname:</string>
+    <string name="enter_name">Enter name:</string>
+    <string name="enter_patronymic">Enter patronymic:</string>
+    <string name="add_student">Add Student</string>
+    <string name="edit_student">Edit Student</string>
+    <string name="save_student">Save student</string>
+</resources>

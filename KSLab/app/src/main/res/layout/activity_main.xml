@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/b_lab1"
+        android:layout_width="110dp"
+        android:layout_height="61dp"
+        android:layout_margin="30dp"
+        android:text="@string/lab_1" />
+
+    <Button
+        android:id="@+id/b_lab2"
+        android:layout_width="110dp"
+        android:layout_height="61dp"
+        android:layout_margin="30dp"
+        android:text="@string/lab_2"/>
+
+    <Button
+        android:id="@+id/b_lab3"
+        android:layout_width="110dp"
+        android:layout_height="61dp"
+        android:layout_margin="30dp"
+        android:text="@string/lab_3"/>
+
+    <Button
+        android:id="@+id/b_lab4"
+        android:layout_width="110dp"
+        android:layout_height="61dp"
+        android:layout_margin="30dp"
+        android:text="@string/lab_4"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>
