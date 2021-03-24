@@ -1,2 +1,2 @@
-# Lab_Shafiev_A
+# Lab_Java
 Laboratory Work
